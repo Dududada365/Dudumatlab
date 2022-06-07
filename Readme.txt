@@ -13,8 +13,9 @@ Please identify yourself, including your organisation, institute, education and 
 
 
 
-
-
+The casadi and MPT3 toolbox are required to run the MPC program
+https://web.casadi.org/
+https://www.mpt3.org/
 
 PS: Note that the function 'bvp4c' embedded in Matlab has been modified.
 
